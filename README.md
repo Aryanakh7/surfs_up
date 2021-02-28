@@ -11,7 +11,7 @@ After having determined and extracted the summary statistics for June and Decemb
 
 - The mean temperature for the month of June was 75, while the minimum was 64 and the maximum was 85.
 
-- ![image](https://user-images.githubusercontent.com/75655852/109404664-28860a00-7936-11eb-87d9-cc057ca45bab.png)
+ ![image](https://user-images.githubusercontent.com/75655852/109404664-28860a00-7936-11eb-87d9-cc057ca45bab.png)
 
 - The mean temperature for the month of December was 71, while the minimum was 56 and the maximum was 83. 
 
