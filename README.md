@@ -24,8 +24,8 @@ After having determined and extracted the summary statistics for June and Decemb
 
 As observed above, the analysis performed from the temperature information in Oahu shows that there is no significant difference in temperature between June and December. In order to determine the sustainability of a year-round surf and ice cream shop business and the possibility of opening more shops on Oahu and other islands, more information needs to be provided regarding the following:
 
-- The precipitation levels for the months of June and December
-- The temperatures recorded at the most active stations available in the dataset
+- The precipitation levels for the months of June and December.
+- The temperatures recorded at the most active stations available in the dataset.
 - The variation of the temperature observation for the remaining months.
 
 
